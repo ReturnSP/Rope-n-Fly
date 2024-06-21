@@ -36,7 +36,7 @@ namespace Rope_n_Fly
                 return;
 
             // Apply gravity
-            ApplyForce(new PointF(15f, 35f));
+            ApplyForce(new PointF(7f, 35f));
             ApplyForce(new PointF(0, 9.81f));
 
 

@@ -24,7 +24,7 @@ namespace Rope_n_Fly
         public void Update(float playerSpeed)
         {
             // Move the building left based on the player's speed
-            x -= playerSpeed;
+            x -= 5;
         }
     }
 }
